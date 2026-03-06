@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "crypto-portfolio-tracker",
+      "title": "Crypto Portfolio Tracker",
+      "description": "Build a full-stack crypto portfolio app with live API integration, database persistence, and real-time financial metrics.",
+      "path": "assignments/crypto-portfolio-tracker",
+      "dueDate": "2026-04-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
